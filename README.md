@@ -2,7 +2,7 @@
 
 ## Overview
 
-This app allows a user to record a genealogy for their family. Consider the
+This was my final project which allows a user to record a genealogy for their family. Consider the
 following *user story* that illustrates the purpose of the app from the
 perspective of the end-user.
 
@@ -96,4 +96,4 @@ Genealogy saved to file `genealogy.txt`
 
 ## Credits
 
-This application was written by {*your name here*} for the class CMPT 120 Introduction to Programming with insructor Matthew Johnson.
+This application was written by Jumin Shrestha for the class CMPT 120 Introduction to Programming with insructor Matthew Johnson.
